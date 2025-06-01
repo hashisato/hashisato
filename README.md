@@ -1,14 +1,11 @@
 ## hashisato
 
 <p align="left">
-  <a href="https://github.com/hashisato/hashisato/">
-    <img src="https://komarev.com/ghpvc/?username=hashisato" alt="hashisato" />
+  <a href="https://github.com/hashisato">
+    <img height="20" src="https://img.shields.io/github/followers/hashisato?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://twitter.com/hashisato_">
     <img height="20" src="https://img.shields.io/twitter/follow/hashisato_?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/hashisato">
-    <img height="20" src="https://img.shields.io/github/followers/hashisato?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
