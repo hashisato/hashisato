@@ -1,5 +1,6 @@
-## hashisato
+# hashisato
 
+## SNS
 <p align="left">
   <a href="https://github.com/hashisato">
     <img height="20" src="https://img.shields.io/github/followers/hashisato?label=follow&logo=github&style=flat" />
@@ -9,7 +10,7 @@
   </a>
 </p>
 
-# Status
+## Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashisato&theme=yeblu)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashisato&theme=yeblu)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hashisato&theme=yeblu)
