@@ -1,20 +1,5 @@
 ## hashisato
 
-<!--
-**hashisato/hashisato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="left">
   <a href="https://github.com/hashisato/hashisato/">
     <img src="https://komarev.com/ghpvc/?username=hashisato" alt="hashisato" />
@@ -33,6 +18,3 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hashisato&theme=yeblu)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashisato&theme=yeblu)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashisato&theme=yeblu&utcOffset=9)
-
-# Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=hashisato&theme=yeblu)
