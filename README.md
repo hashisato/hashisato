@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="https://github.com/hashisato/hashisato/">
+    <img src="https://komarev.com/ghpvc/?username=hashisato" alt="hashisato" />
+  </a>
+  <a href="http://twitter.com/hashisato">
+    <img height="20" src="https://img.shields.io/twitter/follow/hashisato_?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/hashisato">
+    <img height="20" src="https://img.shields.io/github/followers/hashisato?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hashisato)](https://github.com/ryo-ma/github-profile-trophy)
