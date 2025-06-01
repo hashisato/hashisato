@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/hashisato/hashisato/">
     <img src="https://komarev.com/ghpvc/?username=hashisato" alt="hashisato" />
   </a>
-  <a href="http://twitter.com/hashisato">
+  <a href="http://twitter.com/hashisato_">
     <img height="20" src="https://img.shields.io/twitter/follow/hashisato_?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/hashisato">
