@@ -1,6 +1,6 @@
-# hashisato
+# hashisato[https://github.com/hashisato]
 
-## Status
+## Status[https://github.com/hashisato?tab=repositories]
 <p align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
@@ -27,7 +27,7 @@
   <a href="https://github.com/hashisato">
     <img height="20" src="https://img.shields.io/github/followers/hashisato?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://twitter.com/hashisato_">
+  <a href="https://x.com/hashisato_">
     <img height="20" src="https://img.shields.io/twitter/follow/hashisato_?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
