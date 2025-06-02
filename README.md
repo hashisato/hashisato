@@ -1,6 +1,6 @@
-# hashisato[https://github.com/hashisato]
+# [hashisato](https://github.com/hashisato)
 
-## Status[https://github.com/hashisato?tab=repositories]
+## [Status](https://github.com/hashisato?tab=repositories)
 <p align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
