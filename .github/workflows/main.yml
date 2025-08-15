@@ -34,7 +34,7 @@ jobs:
           tex, less, qmake, lex, gnuplot, m4, makefile
         plugin_languages_details: bytes-size, percentage
         plugin_languages_limit: 50
-        plugin_languages_threshold: 0.5%
+        plugin_languages_threshold: 0%
         plugin_followup: yes
         plugin_followup_indepth: yes
     - name: Compact display
