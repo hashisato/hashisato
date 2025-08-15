@@ -1,0 +1,25 @@
+# ドキュメントファイルを明示的に指定（統計から除外）
+*.md linguist-documentation
+*.txt linguist-documentation
+README.md linguist-documentation
+
+# 設定ファイルの言語を明示的に指定
+*.json linguist-language=JSON
+*.yml linguist-language=YAML
+*.yaml linguist-language=YAML
+*.toml linguist-language=TOML
+
+# 生成されたファイルを統計から除外
+output/* linguist-generated
+profile-3d-contrib/* linguist-generated
+
+# ベンダーファイル（サードパーティ）を除外
+node_modules/* linguist-vendored
+vendor/* linguist-vendored
+
+# 特定のファイルを統計から除外
+LICENSE linguist-documentation
+.gitignore linguist-documentation
+
+# SVGファイルを統計から除外（画像として扱う）
+*.svg linguist-documentation
