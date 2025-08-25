@@ -1,7 +1,7 @@
 # [hashisato](https://github.com/hashisato)
 
 ## Status
-<p align="center>
+<p align="center">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
 	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
