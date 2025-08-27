@@ -1,4 +1,4 @@
-# [hashisato](https://github.com/hashisato)
+# [はしさと](https://github.com/hashisato)
 
 ## Status
 <p align="center">
