@@ -22,7 +22,6 @@ jobs:
         filename: output/metrics.base.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: header, activity, community, repositories, metadata
-        repositories_exclude: zenn-content
     - name: Most used (with details)
       uses: lowlighter/metrics@latest
       with:
@@ -30,6 +29,7 @@ jobs:
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
         repositories_skipped: chatbot-ui, gitHub-readme-stats-clone, PL0-compiler
+        repositories_exclude: zenn-content
         plugin_languages: yes
         plugin_languages_ignored: >-
           tex, less, qmake, lex, gnuplot, m4, makefile
