@@ -29,8 +29,8 @@ jobs:
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
         repositories_skipped: chatbot-ui, gitHub-readme-stats-clone, PL0-compiler
-        repositories_exclude: zenn-content
         plugin_languages: yes
+        repositories_skipped: zenn-content
         plugin_languages_ignored: >-
           tex, less, qmake, lex, gnuplot, m4, makefile
         plugin_languages_details: bytes-size, percentage
