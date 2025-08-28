@@ -22,6 +22,7 @@ jobs:
         filename: output/metrics.base.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: header, activity, community, repositories, metadata
+        repositories_exclude: zenn-content
     - name: Most used (with details)
       uses: lowlighter/metrics@latest
       with:
