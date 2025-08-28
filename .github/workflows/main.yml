@@ -28,7 +28,7 @@ jobs:
         filename: output/details.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
-        repositories_skipped: chatbot-ui, gitHub-readme-stats-clone, PL0-compiler, PAMI_Ex13, zenn-content
+        repositories_skipped: chatbot-ui, gitHub-readme-stats-clone, PL0-compiler, PAMI_Ex13
         plugin_languages: yes
         plugin_languages_ignored: >-
           tex, less, qmake, lex, gnuplot, m4, makefile
