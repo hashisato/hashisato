@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Zenn-@hashisato-1E90FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
   </a>
   <a href="https://twitter.com/hashisato_" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/twitter/url?label=%40hashisato_&style=social&url=https%3A%2F%2Ftwitter.com%2Fhashisato_" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/Twitter-@hashisato_&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
