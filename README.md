@@ -24,41 +24,8 @@
   <a href="https://zenn.dev/hashisato" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Zenn-@hashisato-1E90FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
   </a>
-  <a href="https://twitter.com/hashisato_" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Twitter-@hashisato_-1E90FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
 
-<!-- ...existing code... -->
-## Links
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://hashisato.github.io" target="_blank" rel="noopener">
-          <img src="https://img.shields.io/badge/Website-Visit-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-        </a>
-      </td>
-      <td width="12"></td>
-      <td align="center">
-        <a href="https://github.com/hashisato" target="_blank" rel="noopener">
-          <img src="https://img.shields.io/badge/GitHub-@hashisato-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-      </td>
-      <td width="12"></td>
-      <td align="center">
-        <a href="https://zenn.dev/hashisato" target="_blank" rel="noopener">
-          <img src="https://img.shields.io/badge/Zenn-@hashisato-1E90FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
-        </a>
-      </td>
-      <td width="12"></td>
-      <td align="center">
-        <a href="https://twitter.com/hashisato_" target="_blank" rel="noopener">
-          <img src="https://img.shields.io/badge/Twitter-@hashisato_-1E90FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  [![Twitter](https://img.shields.io/badge/Twitter-@hashisato_-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hashisato_)
 </p>
 
 ## Status
