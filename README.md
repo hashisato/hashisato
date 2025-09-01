@@ -14,32 +14,18 @@
 </p>
 
 ## Links
-## Links
 <p align="center">
-  <!-- 丸アイコン（すべて青背景） -->
   <a href="https://hashisato.github.io" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/googlechrome.svg"
-         alt="Website"
-         width="48" height="48"
-         style="border-radius:50%;background:#1E90FF;padding:8px;box-sizing:content-box;display:inline-block" />
+    <img src="https://img.shields.io/badge/Website-Visit-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/hashisato" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg"
-         alt="GitHub"
-         width="48" height="48"
-         style="border-radius:50%;background:#1E90FF;padding:8px;box-sizing:content-box;display:inline-block" />
+    <img src="https://img.shields.io/badge/GitHub-@hashisato-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://zenn.dev/hashisato" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/zenn.svg"
-         alt="Zenn"
-         width="48" height="48"
-         style="border-radius:50%;background:#1E90FF;padding:8px;box-sizing:content-box;display:inline-block" />
+    <img src="https://img.shields.io/badge/Zenn-@hashisato-1E90FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
   </a>
   <a href="https://twitter.com/hashisato_" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg"
-         alt="Twitter"
-         width="48" height="48"
-         style="border-radius:50%;background:#1E90FF;padding:8px;box-sizing:content-box;display:inline-block" />
+    <img src="https://img.shields.io/twitter/url?label=%40hashisato_&style=social&url=https%3A%2F%2Ftwitter.com%2Fhashisato_" alt="Twitter" />
   </a>
 </p>
 
