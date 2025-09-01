@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://hashisato.github.io" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Website-Visit-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-121013?logo=github&amp;logoColor=white">
   </a><!--
   --><a href="https://github.com/hashisato" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-@hashisato-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&amp;logoColor=white">
   </a><!--
   --><a href="https://zenn.dev/hashisato" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Zenn-@hashisato-1E90FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
   </a><!--
   --><a href="https://twitter.com/hashisato_" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Twitter-@hashisato_-1E90FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&amp;logoColor=white">
   </a>
 </p>
 
