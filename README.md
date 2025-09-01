@@ -1,8 +1,4 @@
-<div align="center">
-
 # [はしさと](https://hashisato.github.io)
-
-</div>
 
 ## Languages
 
