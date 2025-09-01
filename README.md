@@ -1,9 +1,10 @@
-# [はしさと](https://github.com/hashisato)
+# [はしさと](https://github.com/hashisato) <img src="https://komarev.com/ghpvc/?username=hashisato&style=for-the-badge&color=red" alt="Profile Views" />
 
 <p align="center">
-  <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=hashisato&style=for-the-badge&color=red" alt="Profile Views" />
-  
+  <img src="https://img.shields.io/github/followers/hashisato?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/hashisato?style=social" alt="GitHub Stars" />
+
   <!-- Languages -->
   <img src="https://img.shields.io/badge/-C-00599d?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-Java-b07219?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
