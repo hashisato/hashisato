@@ -14,6 +14,9 @@
   <a href="https://twitter.com/hashisato_" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Twitter-@hashisato_-1E90FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://twitter.com/hashisato_" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Twitter-%40hashisato_-1E90FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
 ## Languages
