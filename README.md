@@ -1,6 +1,9 @@
 # [はしさと](https://github.com/hashisato)
 
 <p align="center">
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=hashisato&style=for-the-badge&color=red" alt="Profile Views" />
+  
   <!-- Languages -->
   <img src="https://img.shields.io/badge/-C-00599d?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-Java-b07219?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
