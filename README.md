@@ -15,11 +15,31 @@
 
 ## Links
 <p align="center">
-  <!-- Web Links -->
-  <img src="https://img.shields.io/badge/Website-Visit-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
-  <img src="https://img.shields.io/badge/GitHub-@hashisato-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Zenn-@hashisato-3EA8FF?style=flat-square" alt="Zenn" />
-  <img src="https://img.shields.io/badge/Twitter-@hashisato-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  <!-- 丸アイコン（SVG を背景色で丸く見せる） -->
+  <a href="https://hashisato.github.io" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/googlechrome.svg"
+         alt="Website"
+         width="48" height="48"
+         style="border-radius:50%;background:#4CAF50;padding:8px;box-sizing:content-box;display:inline-block" />
+  </a>
+  <a href="https://github.com/hashisato" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg"
+         alt="GitHub"
+         width="48" height="48"
+         style="border-radius:50%;background:#181717;padding:8px;box-sizing:content-box;display:inline-block" />
+  </a>
+  <a href="https://zenn.dev/hashisato" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/zenn.svg"
+         alt="Zenn"
+         width="48" height="48"
+         style="border-radius:50%;background:#3EA8FF;padding:8px;box-sizing:content-box;display:inline-block" />
+  </a>
+  <a href="https://twitter.com/hashisato" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg"
+         alt="Twitter"
+         width="48" height="48"
+         style="border-radius:50%;background:#1DA1F2;padding:8px;box-sizing:content-box;display:inline-block" />
+  </a>
 </p>
 
 ## Status
