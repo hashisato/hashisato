@@ -18,6 +18,7 @@
   <!-- Web Links -->
   <img src="https://img.shields.io/badge/Website-Visit-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   <img src="https://img.shields.io/badge/GitHub-@hashisato-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Zenn-@hashisato-3EA8FF?style=flat-square" alt="Zenn" />
   <img src="https://img.shields.io/badge/Twitter-@hashisato-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
 </p>
 
