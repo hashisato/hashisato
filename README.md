@@ -1,5 +1,6 @@
-# [はしさと](https://github.com/hashisato) <img src="https://komarev.com/ghpvc/?username=hashisato&style=for-the-badge&color=red" alt="Profile Views" />
+# [はしさと](https://github.com/hashisato)
 
+## Languages
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/-C-00599d?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -10,10 +11,12 @@
   <img src="https://img.shields.io/badge/-Perl-0298c3?style=for-the-badge&logo=perl&logoColor=white" alt="Perl" />
   <img src="https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-C%23-178600?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+</p>
 
+## Links
+<p align="center">
   <!-- Web Links -->
-  <p align="center">
-    <a href="https://hashisato.github.io" target="_blank">
+  <a href="https://hashisato.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Website-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="https://github.com/hashisato" target="_blank">
@@ -22,8 +25,84 @@
     <a href="https://twitter.com/hashisato" target="_blank">
       <img src="https://img.shields.io/twitter/follow/hashisato?style=for-the-badge&logo=twitter" alt="Twitter" />
     </a>
-  </p>
 </p>
+
+### 1
+<!-- ...existing code... -->
+  <!-- Web Links: Icon + label (compact) -->
+  <p align="center">
+    <a href="https://hashisato.github.io" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Website-Visit-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://github.com/hashisato" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/GitHub-@hashisato-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://twitter.com/hashisato" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Twitter-@hashisato-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
+<!-- ...existing code... -->
+
+### 2
+<!-- ...existing code... -->
+  <!-- Web Links: Icon-only -->
+  <p align="center">
+    <a href="https://hashisato.github.io" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/-%20-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://github.com/hashisato" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://twitter.com/hashisato" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/-%20-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
+<!-- ...existing code... -->
+
+### 3
+<!-- ...existing code... -->
+  <!-- Web Links: Card style -->
+  <p align="center">
+    <table>
+      <tr>
+        <td align="center" valign="middle">
+          <a href="https://hashisato.github.io" target="_blank" rel="noopener">
+            <img src="https://img.icons8.com/office/48/000000/domain.png" alt="Website"/><br/>
+            <strong>Website</strong><br/><small>Portfolio / Blog</small>
+          </a>
+        </td>
+        <td align="center" valign="middle">
+          <a href="https://github.com/hashisato" target="_blank" rel="noopener">
+            <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/><br/>
+            <strong>GitHub</strong><br/><small>Repositories</small>
+          </a>
+        </td>
+        <td align="center" valign="middle">
+          <a href="https://twitter.com/hashisato" target="_blank" rel="noopener">
+            <img src="https://img.icons8.com/ios-filled/48/000000/twitter.png" alt="Twitter"/><br/>
+            <strong>Twitter</strong><br/><small>Follow me</small>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </p>
+<!-- ...existing code... -->
+
+### 4
+<!-- ...existing code... -->
+  <!-- Web Links: Vertical stacked buttons -->
+  <p align="center">
+    <a href="https://hashisato.github.io" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/⬤ Website-Visit-4CAF50?style=for-the-badge" alt="Website" />
+    </a><br/><br/>
+    <a href="https://github.com/hashisato" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/⬤ GitHub-@hashisato-181717?style=for-the-badge" alt="GitHub" />
+    </a><br/><br/>
+    <a href="https://twitter.com/hashisato" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/⬤ Twitter-@hashisato-1DA1F2?style=for-the-badge" alt="Twitter" />
+    </a>
+  </p>
+<!-- ...existing code... -->
 
 ## Status
 <p align="center">
