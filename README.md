@@ -1,6 +1,6 @@
 <div align="center">
 
-# [はしさと](https://hashisato.github.io)
+# [はしさと [Website]](https://hashisato.github.io)
 
 ## Languages
 
@@ -30,6 +30,8 @@
 	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/hashisato/hashisato/output-3d-contrib/day.svg" />
   </picture>
 </p>
+
+## 3D Contributions
 
 <p align="center" >
 	<picture>
