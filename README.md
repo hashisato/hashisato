@@ -1,5 +1,4 @@
-# [はしさと](https://github.com/hashisato)
-<img src="https://komarev.com/ghpvc/?username=hashisato&style=for-the-badge&color=red" alt="Profile Views" />
+# [はしさと](https://github.com/hashisato) <img src="https://komarev.com/ghpvc/?username=hashisato&style=for-the-badge&color=red" alt="Profile Views" />
 
 <p align="center">
   <!-- Languages -->
@@ -11,6 +10,11 @@
   <img src="https://img.shields.io/badge/-Perl-0298c3?style=for-the-badge&logo=perl&logoColor=white" alt="Perl" />
   <img src="https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-C%23-178600?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+
+  <!-- Web Links -->
+  <a href="https://hashisato.github.io" target="_blank">Website</a>
+  <a href="https://github.com/hashisato" target="_blank">GitHub</a>
+  <a href="https://twitter.com/hashisato" target="_blank">Twitter</a>
 </p>
 
 ## Status
