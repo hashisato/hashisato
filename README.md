@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<code>
-
 ## Languages
 
 <p align="center">
@@ -40,7 +38,5 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/hashisato/hashisato/output-3d-contrib/day.svg" />
 	</picture>
 </p>
-
-</code>
 
 </div>
