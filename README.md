@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<samp>
+<code>
 
 ## Languages
 
@@ -41,6 +41,6 @@
 	</picture>
 </p>
 
-</samp>
+</code>
 
 </div>
