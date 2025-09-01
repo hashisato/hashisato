@@ -1,6 +1,5 @@
 # [はしさと](https://github.com/hashisato)
 
-## Links
 <p align="center">
   <!-- Links -->
   <a href="https://hashisato.github.io" target="_blank" rel="noopener">
