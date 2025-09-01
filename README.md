@@ -12,9 +12,17 @@
   <img src="https://img.shields.io/badge/-C%23-178600?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 
   <!-- Web Links -->
-  <a href="https://hashisato.github.io" target="_blank">Website</a>
-  <a href="https://github.com/hashisato" target="_blank">GitHub</a>
-  <a href="https://twitter.com/hashisato" target="_blank">Twitter</a>
+  <p align="center">
+    <a href="https://hashisato.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Website-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://github.com/hashisato" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-@hashisato-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://twitter.com/hashisato" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/hashisato?style=for-the-badge&logo=twitter" alt="Twitter" />
+    </a>
+  </p>
 </p>
 
 ## Status
