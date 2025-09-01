@@ -1,5 +1,3 @@
-<div align="center">
-
 <pre>
 　■　　　　　　　　　　　　　　　　　■　　　　　　■　　　　　　　　　　　　　■　　　　　　　　
 　■　　　　　　　　　　　　　　　　　■　　　　　　　　　　　　　　　　　　　　■　　　　　　　　
@@ -10,6 +8,8 @@
 　■　　　■　■　　　■　■　　　■　■　　　■　　■　■　　　■■　　　■　　■　■■■　　■■
 ■■■　■■■　■■■■■　■■■　■■■　■■■■■■　■■■　　■■■■■　■■　　■■■■  
 </pre>
+
+<div align="center">
 
 # [はしさと](https://hashisato.github.io)
 
