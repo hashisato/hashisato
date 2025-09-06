@@ -202,14 +202,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.12262914332905" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="178.12262914332905" y="0" width="171.90661672146734" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="350.0292458647964" y="0" width="37.01708005984832" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="387.0463259246447" y="0" width="28.59784335770112" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="415.6441692823458" y="0" width="27.546478823879866" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="443.19064810622564" y="0" width="7.752172101796411" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="450.94282020802206" y="0" width="5.153987335082206" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.0968075431042" y="0" width="3.903192456895699" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.0831700603154" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="178.0831700603154" y="0" width="171.8685346569232" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="349.9517047172386" y="0" width="37.00887975401391" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="386.9605844712525" y="0" width="28.68925155874636" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="415.6498360299988" y="0" width="27.540376517845687" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="443.19021254784457" y="0" width="7.7504547815212055" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="450.94066732936574" y="0" width="5.157004878693846" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.09767220805963" y="0" width="3.9023277919403507" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -222,7 +222,7 @@
                             </div>
                             <small>
                                 <div>1.37 MB</div>
-                                <div>38.72%</div>
+                                <div>38.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -272,7 +272,7 @@
                             </div>
                             <small>
                                 <div>1.32 MB</div>
-                                <div>37.37%</div>
+                                <div>37.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -283,8 +283,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>219 kB</div>
-                                <div>6.22%</div>
+                                <div>220 kB</div>
+                                <div>6.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -296,7 +296,7 @@
                             </div>
                             <small>
                                 <div>59.6 kB</div>
-                                <div>1.69%</div>
+                                <div>1.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
