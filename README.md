@@ -6,27 +6,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,rust,cs,py&theme=dark" />
     <img src="https://skillicons.dev/icons?i=c,java,rust,cs,py&theme=light" />
   </a>
-</p>
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,rust,cs,py&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,java,rust,cs,py&theme=light" />
-    <img src="https://skillicons.dev/icons?i=c,java,rust,cs,py" alt="Languages" />
-  </picture>
-</p>
-
 </p>
 
 ## Development Environment
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,github,vscode&theme=light" />
   </a>
 </p>
 
