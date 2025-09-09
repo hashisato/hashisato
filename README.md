@@ -2,18 +2,12 @@
 
 # [は し さ と](https://hashisato.github.io)
 
-## Languages
+## Skills
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/-C-00599d?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-Java-b07219?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/-Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust" />
-  <img src="https://img.shields.io/badge/-Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/-Perl-0298c3?style=for-the-badge&logo=perl&logoColor=white" alt="Perl" />
-  <img src="https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/-C%23-178600?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c, java, rust, cs, py" />
+  </a>
 </p>
 
 ## Status
