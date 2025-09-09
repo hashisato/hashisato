@@ -18,7 +18,6 @@
   </a>
 </p>
 
-<!--
 ## Status
 
 <p align="center">
@@ -34,6 +33,7 @@
   </picture>
 </p>
 
+<!--
 ## 3D Contributions
 
 <p align="center" >
