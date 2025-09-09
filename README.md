@@ -4,13 +4,12 @@
 
 ## Languages
 
-<!--
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,rust,cs,py" />
+    <img src="https://skillicons.dev/icons?i=c,java,rust,cs,py&theme=light" />
   </a>
 </p>
--->
+
 
 <p align="center">
   <picture>
