@@ -2,7 +2,7 @@
 
 # [は し さ と](https://hashisato.github.io)
 
-## Skills
+## Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,6 +10,15 @@
   </a>
 </p>
 
+## Development Environment
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,github,vscode" />
+  </a>
+</p>
+
+<!--
 ## Status
 
 <p align="center">
@@ -34,5 +43,6 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/hashisato/hashisato/output-3d-contrib/day.svg" />
 	</picture>
 </p>
+-->
 
 </div>
