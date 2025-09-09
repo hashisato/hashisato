@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,rust,cs,py&theme=dark" />
     <img src="https://skillicons.dev/icons?i=c,java,rust,cs,py&theme=light" />
   </a>
 </p>
