@@ -4,10 +4,22 @@
 
 ## Languages
 
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,rust,cs,py" />
   </a>
+</p>
+-->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,rust,cs,py&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,java,rust,cs,py&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,java,rust,cs,py" alt="Languages" />
+  </picture>
+</p>
+
 </p>
 
 ## Development Environment
