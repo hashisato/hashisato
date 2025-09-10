@@ -2,6 +2,14 @@
 
 # [は し さ と](https://hashisato.github.io)
 
+## SNS
+
+![https://github.com/hashisato](https://skillicons.dev/icons?i=github&theme=light)
+&nbsp;&nbsp;&nbsp;
+![https://twitter.com/hashisato_](https://skillicons.dev/icons?i=twitter&theme=light)
+&nbsp;&nbsp;&nbsp;
+![https://zenn.dev/hashisato](./icons/zenn-light.svg)
+
 ## Languages
 
 <p align="center">
