@@ -1,6 +1,6 @@
 <div align="center">
 
-# [は し さ と](https://hashisato.github.io)
+# [hashisato](https://hashisato.github.io)
 
 ## Languages
 
