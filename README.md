@@ -2,6 +2,7 @@
 
 # [hashisato](https://hashisato.github.io)
 
+<!--
 ## Languages
 
 <p align="center">
@@ -17,6 +18,7 @@
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,github,neovim,vscode&theme=light" />
   </a>
 </p>
+-->
 
 ## Status
 
