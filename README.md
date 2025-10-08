@@ -20,7 +20,7 @@
 </p>
 -->
 
-## Status
+## GitHub Status
 
 <p align="center">
   <picture>
