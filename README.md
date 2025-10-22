@@ -2,13 +2,15 @@
 
 # [hashisato](https://hashisato.github.io)
 
+Hi there👋
+
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://github.com/user-attachments/assets/50360179-7e9b-4817-a05e-8d379a84c53d" />
   </a>
 </p>
 
-<!--
 ## Languages
 
 <p align="center">
