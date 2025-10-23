@@ -2,7 +2,7 @@
 
 <samp>
 
-# Hi there💤
+Hi there💤
 
 ### [Website](https://hashisato.github.io/) [Zenn](https://zenn.dev/hashisato) [Twitter](https://x.com/hashisato_)
 
