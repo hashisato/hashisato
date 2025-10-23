@@ -6,6 +6,10 @@
 
 ### Hi there👋
 
+[Website](https://hashisato.github.io/)
+[Zenn](https://zenn.dev/hashisato)
+[Twitter](https://x.com/hashisato_)
+
 <!--
 <p align="center">
   <a href="https://skillicons.dev">
