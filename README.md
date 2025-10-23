@@ -6,13 +6,18 @@
 
 ### [Website](https://hashisato.github.io/) [Zenn](https://zenn.dev/hashisato) [Twitter](https://x.com/hashisato_)
 
+
 <!--
+---
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://github.com/user-attachments/assets/50360179-7e9b-4817-a05e-8d379a84c53d" />
-  </a>
+	<a>
+		<img src="https://github.com/user-attachments/assets/50360179-7e9b-4817-a05e-8d379a84c53d" style="max-width: 500px;"/>
+	</a>
 </p>
 
+---
+<!--
 ## Languages
 
 <p align="center">
