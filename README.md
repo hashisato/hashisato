@@ -18,16 +18,16 @@
 
 <p align="center">
 	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/react/1-repos-per-language.svg" />
+		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg" />
 	</picture>
 	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/react/2-most-commit-language.svg"/>
+		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg"/>
 	</picture>
 	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/react/3-stats.svg" />
+		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/3-stats.svg" />
 	</picture>
 	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/react/4-productive-time.svg" />
+		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg" />
 	</picture>
 </p>
 
