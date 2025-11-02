@@ -6,14 +6,6 @@
 
 ### [Website](https://hashisato.github.io/) [Zenn](https://zenn.dev/hashisato) [Twitter](https://x.com/hashisato_)
 
-## Languages
-
-<p align="center">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=c,java,rust&theme=light" />
-	</a>
-</p>
-
 ## Development Environment
 
 <p align="center">
