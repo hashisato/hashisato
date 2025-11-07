@@ -14,22 +14,23 @@
 	</a>
 </p>
 
-## GitHub Status
-
-<p align="center">
-	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg" />
-	</picture>
-	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg"/>
-	</picture>
-	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/3-stats.svg" />
-	</picture>
-	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg" />
-	</picture>
-</p>
+<details>
+	<summary><strong>GitHub Status</strong></summary>
+	<p align="center">
+		<picture>
+			<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg" />
+		</picture>
+		<picture>
+			<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg"/>
+		</picture>
+		<picture>
+			<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/3-stats.svg" />
+		</picture>
+		<picture>
+			<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg" />
+		</picture>
+	</p>
+</details>
 
 </samp>
 
