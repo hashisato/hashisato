@@ -4,7 +4,7 @@
 
 ## Hi there💤
 
-### [Website](https://hashisato.github.io/) [Zenn](https://zenn.dev/hashisato) [Twitter](https://x.com/hashisato_)
+### [Website](https://hashisato.github.io/portfolio) [Zenn](https://zenn.dev/hashisato) [Twitter](https://x.com/hashisato_)
 
 #### Development Environment
 
