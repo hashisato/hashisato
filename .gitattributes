@@ -23,3 +23,9 @@ LICENSE linguist-documentation
 
 # SVGファイルを統計から除外（画像として扱う）
 *.svg linguist-documentation
+
+# 全ての .css ファイルを言語統計から除外する（vendored として扱う）
+*.css linguist-vendored=true
+# 代替: generated / documentation として扱う例
+# *.css linguist-generated=true
+# *.css linguist-documentation=true
