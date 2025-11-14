@@ -6,15 +6,7 @@
 
 ### [Website](https://hashisato.github.io/portfolio) [Zenn](https://zenn.dev/hashisato) [Twitter](https://x.com/hashisato_)
 
-#### Development Environment
-
-<p align="center">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=ubuntu,git,github,vscode&theme=light" />
-	</a>
-</p>
-
-#### GitHub Status
+##
 
 <p align="center">
 	<picture>
