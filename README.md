@@ -2,7 +2,9 @@
 
 <samp>
 
-## Hi there💤
+# Hi there💤
+
+<!--
 
 ### [Website](https://hashisato.github.io/portfolio) [Zenn](https://zenn.dev/hashisato) [Twitter](https://x.com/hashisato_)
 
@@ -22,6 +24,8 @@
 		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg" />
 	</picture>
 </p>
+
+-->
 
 </samp>
 
