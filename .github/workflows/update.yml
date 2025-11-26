@@ -17,8 +17,8 @@ jobs:
 
       - name: Get SVGs
         run: |
-          curl --fail "https://gh-stats-api.reizt.workers.dev/${{ github.actor }}?theme=light&ignore=Jupyter%20Notebook" > ./lang-ratio/langs.light.svg
-          curl --fail "https://gh-stats-api.reizt.workers.dev/${{ github.actor }}?theme=dark&ignore=Jupyter%20Notebook"  > ./lang-ratio/langs.dark.svg
+          curl --fail "https://gh-stats-api.reizt.workers.dev/${{ github.actor }}?theme=light&ignore=Jupyter%20Notebook" > ./langs.light.svg
+          curl --fail "https://gh-stats-api.reizt.workers.dev/${{ github.actor }}?theme=dark&ignore=Jupyter%20Notebook"  > ./langs.dark.svg
 
       - name: Commit
         env:
