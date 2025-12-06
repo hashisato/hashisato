@@ -1,32 +1,37 @@
-<div align="center">
-
+<div align="left">
 <samp>
 
-**Hi there💤**
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=hashisato" />
+</div>
 
-<!--
+## 👋 Hi there
 
-### [Website](https://hashisato.github.io/portfolio) [Zenn](https://zenn.dev/hashisato) [Twitter](https://x.com/hashisato_)
+- 🧑‍💻 I'm an undergraduate student.
+- 🦀 I'm currently learning Rust!
+- 📝 I'm interested in machine learning and cybersecurity.
 
-##
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=ubuntu,git,c,rust,java,py" />
+<br>
 
-<p align="center">
-	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg" />
-	</picture>
-	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg"/>
-	</picture>
-	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/3-stats.svg" />
-	</picture>
-	<picture>
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg" />
-	</picture>
-</p>
-
--->
+## 🏃‍♀️ GitHub Stat
+![](https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg)
 
 </samp>
-
 </div>
+
+<!--
+This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
