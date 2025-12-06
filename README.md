@@ -12,11 +12,14 @@
 - 📝 I'm interested in machine learning and cybersecurity.
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=ubuntu,git,c,rust,java,py" />
-<br>
+<div align="left">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=ubuntu,git,c,rust,java,py" />
+</div>
 
 ## 🏃‍♀️ GitHub Stat
-![](https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg)
+<div align="left">
+  <img alt="my stat" src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" />
+</div>
 
 </samp>
 </div>
