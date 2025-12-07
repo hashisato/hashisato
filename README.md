@@ -7,9 +7,9 @@
 
 ## 👋 Hi there
 
-- 🧑‍💻 I'm an undergraduate student.
+- 🧑‍💻 I'm an Undergraduate student.
 - 🦀 I'm currently learning Rust!
-- 📝 I'm interested in machine learning and cybersecurity.
+- 📝 I'm interested in ML and Cyber Security.
 
 ## 🌱 Skills
 <div align="left">
