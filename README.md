@@ -8,8 +8,8 @@
 ## 👋 Hi there
 
 - 🧑‍💻 I'm an Undergraduate student
-- 🦀 I'm currently learning Rust
-- 📝 I'm interested in ML and Cyber Security
+- 🦀 I'm currently learning...
+- 📝 I'm interested in ML
 
 ## 🌱 Skills
 <div align="left">
