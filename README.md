@@ -21,6 +21,14 @@
   <img alt="my stat" src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" />
 </div>
 
+## ⚡ Gitty Score
+
+<div align="left">
+  <a href="https://gitty-code.com/user/hashisato">
+    <img alt="gitty score" src="https://gitty-code.com/api/badge/hashisato.png" />
+  </a>
+</div>
+
 </samp>
 </div>
 
