@@ -12,14 +12,28 @@
 - 📝 I'm interested in ML
 
 ## 🌱 Skills
+
 <div align="left">
   <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=ubuntu,git,c,rust,java,py" />
 </div>
 
 ## 🏃‍♀️ GitHub Stat
-<div align="left">
-  <img alt="my stat" src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" />
-</div>
+
+<table width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left">
+      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/3-stats.svg" width="100%" />
+    </td>
+    <td width="50%" align="right">
+      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Gitty Score
 
