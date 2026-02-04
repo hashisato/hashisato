@@ -37,11 +37,14 @@
 
 ## ⚡ Gitty Score
 
+<details>
+<summary>View Images</summary>
 <div align="left">
   <a href="https://gitty-code.com/user/hashisato">
     <img alt="gitty score" src="https://gitty-code.com/api/badge/hashisato.png" />
   </a>
 </div>
+</details>
 
 </samp>
 </div>
