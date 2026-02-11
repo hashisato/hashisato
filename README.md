@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=hashisato" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00A3AF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+hashisato.)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00A3AF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+hashisato." />
+</div>
 
 <!--
 # 👋 Hi there
