@@ -9,6 +9,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00A3AF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+hashisato." />
 </div>
 
+</samp>
+</div>
+
 <!--
 # 👋 Hi there
 
@@ -51,9 +54,6 @@
 </div>
 </details>
 -->
-
-</samp>
-</div>
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
