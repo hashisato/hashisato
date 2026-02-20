@@ -12,6 +12,10 @@ GitHub              | hashisato (https://github.com/hashisato)
 Twitter             | hashisato_ (https://x.com/hashisato_)
 ```
 
+</samp>
+</div>
+
+<!--
 |                     |                                                    | 
 | ------------------- | -------------------------------------------------- | 
 | Name                | hashisato                                          | 
@@ -19,10 +23,6 @@ Twitter             | hashisato_ (https://x.com/hashisato_)
 | GitHub              | hashisato (https://github.com/hashisato)           | 
 | Twitter             | hashisato_ (https://x.com/hashisato_)              | 
 
-</samp>
-</div>
-
-<!--
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00A3AF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+hashisato." />
 </div>
