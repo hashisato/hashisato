@@ -6,10 +6,10 @@
 </div>
 
 ```
-Name :                 hashisato
-Current affiliation :  Undergraduate Student (B3), The University of Aizu
-GitHub :               hashisato (https://github.com/hashisato)
-Twitter :              hashisato_ (https://x.com/hashisato_)
+Name                | hashisato
+Current affiliation | Undergraduate Student (B3), The University of Aizu
+GitHub              | hashisato (https://github.com/hashisato)
+Twitter             | hashisato_ (https://x.com/hashisato_)
 ```
 
 </samp>
