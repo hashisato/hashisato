@@ -5,13 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=hashisato" />
 </div>
 
-```
-Name                | hashisato
-Current affiliation | Undergraduate Student (B3), The University of Aizu
-GitHub              | hashisato (https://github.com/hashisato)
-Twitter             | hashisato_ (https://x.com/hashisato_)
-```
-
 </samp>
 </div>
 
