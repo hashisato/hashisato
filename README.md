@@ -5,17 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=hashisato" />
 </div>
 
+<div align="center">
+  <a href="https://open.spotify.com/user/31ag25yx7or4fhrs4vivkeifsiia">
+    <img width="160" height="500" alt="img_Spotify" src="https://github.com/user-attachments/assets/fd82f7f9-4a26-4e54-a29e-f3d7a0c5b674" />
+  </a>
+</div>
+
+
+
+
 </samp>
 </div>
 
 <!--
-|                     |                                                    | 
-| ------------------- | -------------------------------------------------- | 
-| Name                | hashisato                                          | 
-| Current affiliation | Undergraduate Student (B3), The University of Aizu | 
-| GitHub              | hashisato (https://github.com/hashisato)           | 
-| Twitter             | hashisato_ (https://x.com/hashisato_)              | 
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00A3AF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+hashisato." />
 </div>
