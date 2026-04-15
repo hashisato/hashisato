@@ -1,20 +1,11 @@
 <div align="left">
 <samp>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=hashisato" />
-</div>
+# 👋 Hi there
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31ag25yx7or4fhrs4vivkeifsiia">
-    <img width="160" height="500" alt="img_Spotify" src="https://github.com/user-attachments/assets/fd82f7f9-4a26-4e54-a29e-f3d7a0c5b674" />
-  </a>
-  <br>
-  >>>CLICK<<<
-</div>
-
-
-
+- 🧑‍💻 I'm an Undergraduate student (B4)
+- 🦀 I'm currently learning...
+- 📝 I'm interested in ML
 
 </samp>
 </div>
