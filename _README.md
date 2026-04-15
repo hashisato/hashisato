@@ -3,7 +3,7 @@
 
 # 👋 Hi there
 
-- 🧑‍💻 I'm an Undergraduate student (B4)
+- 🧑‍💻 I'm an Undergraduate student
 - 🦀 I'm currently learning...
 - 📝 I'm interested in ML
 
