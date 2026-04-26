@@ -7,6 +7,24 @@
 - 🦀 I'm currently learning...
 - 📝 I'm interested in ML
 
+# 🏃‍♀️ GitHub Stat
+
+<table width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left">
+      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/3-stats.svg" width="100%" />
+    </td>
+    <td width="50%" align="right">
+      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" width="100%" />
+    </td>
+  </tr>
+</table>
+
 </samp>
 </div>
 
