@@ -9,7 +9,7 @@
 
 # 🏃‍♀️ GitHub Stat
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td colspan="2" align="center">
       <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" width="100%" />
