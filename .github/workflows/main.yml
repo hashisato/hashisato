@@ -16,7 +16,6 @@ on:
 jobs:
   github-profile-summary-cards:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
     permissions:
       contents: write
     steps:
@@ -31,7 +30,7 @@ jobs:
           # UTC_OFFSET is optional, default to zero
           UTC_OFFSET: 9
           # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
-          EXCLUDE: ""
+          EXCLUDE: "HTML"
           # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch
           AUTO_PUSH: true
 
