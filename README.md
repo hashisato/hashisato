@@ -1,5 +1,5 @@
 <div align="left">
-<samp>
+<!--samp-->
 
 # 👋 Hi there
 
@@ -12,20 +12,20 @@
 <table width="100%" align="center">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" width="100%" />
+      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/zenburn/0-profile-details.svg" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="left">
-      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/3-stats.svg" width="100%" />
+      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/zenburn/3-stats.svg" width="100%" />
     </td>
     <td width="50%" align="right">
-      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" width="100%" />
+      <img src="https://raw.githubusercontent.com/hashisato/hashisato/main/profile-summary-card-output/zenburn/2-most-commit-language.svg" width="100%" />
     </td>
   </tr>
 </table>
 
-</samp>
+<!--/samp-->
 </div>
 
 <!--
