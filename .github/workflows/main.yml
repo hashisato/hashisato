@@ -1,31 +1,28 @@
-name: Main
-on:
-  # run automatically every hour
-  schedule:
-    - cron: "0 * * * *"
+name: Profile-Cards
 
-  # allows to manually run the job at any time
+on:
+  schedule: # execute every 24 hours
+    - cron: '0 * * * *'
   workflow_dispatch:
 
-  # run on every push on the main branch
-  # don't forget to change if you're using 'master' branch
-  push:
-    branches:
-      - main
-
 jobs:
-  github-profile-summary-cards:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: generate
+
     steps:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
+        env: # default use ${{ secrets.GITHUB_TOKEN }}, you can change to your personal access token
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"
           UTC_OFFSET: 9
+          # Only generate the theme this README actually uses...
+          THEME: solarized
+          # ...with a light opacity-only fade (cheapest to render — the heavier
+          # presets like load/sequence stutter as <img>-embedded SVGs).
+          ANIMATION: fade
           EXCLUDE: "HTML"
           AUTO_PUSH: true
+          
