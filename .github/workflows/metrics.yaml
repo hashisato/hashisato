@@ -14,7 +14,7 @@ jobs:
       - name: left profile 
         uses: gh-metrics/metrics@master # stalomeow/metrics@projects-v2
         with:
-          token: ${{ secrets.READ_PERSONAL }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/metrics.left.svg
 
           # Options
@@ -38,7 +38,7 @@ jobs:
       - name: right profile 
         uses: gh-metrics/metrics@master # stalomeow/metrics@projects-v2
         with:
-          token: ${{ secrets.READ_PERSONAL }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/metrics.right.svg
 
           # Options
