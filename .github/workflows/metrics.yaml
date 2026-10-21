@@ -21,6 +21,7 @@ jobs:
           user: hashisato
           template: classic
           base: header, activity, community
+          config_padding: 0, 0
           config_timezone: Asia/Tokyo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -47,6 +48,7 @@ jobs:
           user: hashisato
           template: classic
           base: ""
+          config_padding: 0, 0
           config_timezone: Asia/Tokyo
           plugin_achievements: yes
           plugin_achievements_secrets: yes
