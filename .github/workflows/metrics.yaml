@@ -33,6 +33,7 @@ jobs:
           plugin_languages_ignored: html, css, 4D, q, makefile, m4, batchfile, jupyter notebook, tex, shell
           plugin_languages_limit: 8
           plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used          
           commits_authoring: hashisato
           config_order: base.header, base.activity+community, isocalendar, followup, languages
